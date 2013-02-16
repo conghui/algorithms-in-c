@@ -1,0 +1,4 @@
+we can use a counter as a data member of the algorithm. 
+
+At first, we init the counter as the the number of items, If we merge two 
+different component, we decrease the counter.
