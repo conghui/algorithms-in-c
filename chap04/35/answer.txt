@@ -1,0 +1,24 @@
+1. to get EasY, you can E*a*s*Y*
+
+2. to get YasE. The first character to get is Y, so you should push all the 
+   character in to the queue, that is YEas, to precedure is
+   + Y Eas
+   now, you can get either E or s, but you can't get a. So, we can't get YasE 
+
+3.  E       E
+    a       Ea
+    *   a   E
+    s       Es
+    Y       YEs
+    +   Y   Es
+    *   s   E
+    *   E   
+
+4.  E       E
+    a       Ea
+    *   a   E
+    s       Es
+    *   s   E
+    Y       EY
+    *   Y   E
+    *   E

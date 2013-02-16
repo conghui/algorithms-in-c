@@ -1,0 +1,9 @@
+What's the maximum number of exchanges involving any particular element during 
+selection sort? What's the average number of exchanges involving an element?
+
+1. The maximum number of exchanges is N - 1. For example, the largest element is 
+   in the first place, and the remaining elements are in ascending order.
+
+2. Each swap will involve 2 elements, and there are (N-1) swaps when you perform 
+   selection sort. So the average number of exchanges involving an element is 
+   2(N-1)/N

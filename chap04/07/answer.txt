@@ -1,0 +1,20 @@
+we push "EASY" to the stack, and we expect to get the following.
+
+1. EASY: the original order
+    the answer is: E*A*S*Y*
+    pop the element immediately after you push it in, then you can get the 
+    original order of the element
+
+2. YSAE: the reverse order
+    the answer is: EASY****
+    don't pop the elements until you push all the elements into the stack, then 
+    you can get the reverse order of the element.
+
+3. ASYE:
+    the answer is: EA*S*Y**
+
+4. AYES:
+    the answer is: impossible.
+    if you want to get element Y, you should pop it immediately after you push 
+    it in. If you only pop A before, then your stack is: ESY, when you pop Y, 
+    the top of the stack is S, not E

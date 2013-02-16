@@ -1,0 +1,13 @@
+Give an example of file for which the number of exchanges done by bubble sort is 
+maximized.
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1

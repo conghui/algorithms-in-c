@@ -1,0 +1,18 @@
+Show, in the style of Figure 6.3, how insertion sort sorts the sample file
+
+E A S Q U E S T I O N
+
+answer:
+A E S Q U E S T I O N   // find the smallest item, swap it with the first 
+                        // element, treat it as the sentinel
+A E S Q U E S T I O N   // there is no need the touch the first element, because 
+                        // it must be smaller that the zero element (the smallest one)
+A E S Q U E S T I O N
+A E Q S U E S T I O N
+A E Q S U E S T I O N
+A E E Q S U S T I O N
+A E E Q S S U T I O N
+A E E Q S S T U I O N
+A E E I Q S S T U O N
+A E E I O Q S S T U N
+A E E I N O Q S S T U

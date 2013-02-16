@@ -1,0 +1,2 @@
+Wrote a recursive program that computes the internal path length of a binary 
+tree, using Definition 5.6

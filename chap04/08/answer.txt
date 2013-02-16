@@ -1,0 +1,25 @@
+If we need to use to stack to convert sequence A to sequence B, then we can use 
+the following algorithm.
+
+1.  push the first element in A into stack
+2.  p points to the first element in sequence B
+2.  while (sequence A not empty) {
+        if (stack.top == p) {
+            pop the stack
+            p points to the next element in sequence B
+        }
+
+        push next element in sequence A into stack
+    }
+
+    while (!stack.empty && stack.top == p) {
+        pop the stack
+        p points to the next element in sequence B
+    }
+
+    if (stack.empty) {
+        print YES
+    }
+    else {
+        print NO
+    }

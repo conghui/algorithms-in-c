@@ -1,0 +1,2 @@
+Give a nonadaptive implementation of selection sort based on finding the minimum
+element with code link the first for loop in program 6.3

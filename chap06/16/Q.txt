@@ -1,0 +1,2 @@
+Give an implementation of insertion sort with the inner loop coded as a while
+loop that terminates on one of two conditions, as decribed in the text.

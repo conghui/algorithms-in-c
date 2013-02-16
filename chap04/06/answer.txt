@@ -1,0 +1,27 @@
+op  pop stack
+E       E   
+A       EA  
+S       EAS
+*   S   EA
+Y       EAY
+*   Y   EA
+Q       EAQ 
+U       EAQU
+E       EAQUE
+*   E   EAQU
+*   U   EAQ
+*   Q   EA
+S       EAS
+T       EAST    
+*   T   EAS
+*   S   EA
+*   A   E
+I       EI
+O       EIO 
+*   O   EI
+N       EIN
+*   N   EI
+*   I   E
+*   E   
+
+

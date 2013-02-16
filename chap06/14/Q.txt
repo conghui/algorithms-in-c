@@ -1,0 +1,15 @@
+Is selection sort stable?
+
+The default implementation (swap two element) is not stable. For example, if you 
+have the following input data
+    B b a c where a < b < c
+after the first iteration, you may swap B and a, results in
+    a b B c
+the sequence is sorted, but the order of b and B is changed.
+
+But you can however implement selection sort stable if you, instead of 
+switching, insert the minimum value. But for that to be efficient, you should 
+have data structure that support insertion in a low cost. Otherwise, you end up 
+with quardratic complexity.
+
+

@@ -1,0 +1,4 @@
+1. pick a card, and insert it from the last peg to the first one. 
+2. if the card fit the current peg, peg the card here, and fetch the next card.
+3. if the card cannot fit the current peg, move the card ahead til it can fit 
+   the peg.

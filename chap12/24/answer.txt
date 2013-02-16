@@ -1,0 +1,11 @@
+Which symbol table implementation would you use for an application that does 
+10^2 insert operation, 10^3 search operator and 10^4 selection, randomly 
+intermixed? Justify your answer.
+
+The most operation is the selection, so we need an implementation that could 
+take fast selection. Of course it is the sorted one. But whether it is the 
+sorted link list or the sorted array? If we use the sorted link list, we need to 
+step from the first node to the required node. Then the complexity is O(n) in 
+worst case, and O(n/2) in average case. But If we use the sorted array, we can 
+use the array index to extract the required item in constant time. So we need to 
+implement the symbol tale using a sorted array.

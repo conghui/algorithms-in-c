@@ -1,0 +1,26 @@
+1.1 pre-order
+    D-B-A-C-F-E-G
+
+1.2 in-order
+    A-B-C-D-E-F-G
+
+1.3 post-order
+    A-C-B-E-G-F-D
+
+2.1 pre-order
+    C-B-A-D-E
+
+2.2 in-order
+    A-B-C-D-E
+
+2.3 post-order
+    A-B-E-D-C
+
+3.1 pre-order
+    E-C-B-A-D-H-F-G-I
+
+3.2 in-order
+    A-B-C-D-E-F-G-H-I
+
+3.3 post-order
+    A-B-D-C-G-F-I-H-E

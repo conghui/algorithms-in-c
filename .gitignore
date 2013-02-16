@@ -1,0 +1,5 @@
+Makefile
+*core*
+*.o
+chap01
+chap02

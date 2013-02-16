@@ -1,0 +1,24 @@
+E       E
+A       EA  
+S       EAS 
+*   E   AS  
+Y       ASY
+*   A   SY
+Q       SYQ
+U       SYQU    
+E       SYQUE
+*   S   YQUE
+*   Y   QUE
+*   Q   UE
+S       UES
+T       UEST
+*   U   EST
+*   E   ST
+*   S   T
+I       TI
+O       TIO
+*   T   IO
+N       ION
+*   I   ON  
+*   O   N
+*   N

@@ -1,0 +1,3 @@
+Is bubble sort stable?
+
+Bubble sort is stable, two equal elements will never be swapped

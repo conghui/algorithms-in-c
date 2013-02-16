@@ -1,0 +1,2 @@
+1. arrange the card in four stack, each suit in one stack.
+2. for each stack, sort the card.

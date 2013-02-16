@@ -1,0 +1,2 @@
+Write a recursive program that computes the internal path length of a binary 
+tree in time proportional to the number of nodes in the tree
